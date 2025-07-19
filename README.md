@@ -9,4 +9,4 @@
 
 ### Usage (Text Input) 
 `python3 hconv.py s` <br>
-`python hconv.py`
+`python hconv.py s`
