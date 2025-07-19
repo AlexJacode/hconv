@@ -1,4 +1,4 @@
-# <p align="center"> canonize
+# <p align="center"> hconv / hconv.py
 <p align="center"> Hex Converter (ASCII Text String -> Hexadecimal) Written In Python 
 <p align="center"> C++ Rewrite Coming Soon. 
 
